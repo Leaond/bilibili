@@ -1,10 +1,7 @@
-<script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div><el-button type="primary">主要按钮</el-button></div>
-  <HelloWorld msg="Vite + Vue" />
+  <div>1111111111</div>
 </template>
 
 <style scoped>
